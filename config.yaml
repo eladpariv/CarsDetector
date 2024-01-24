@@ -1,0 +1,10 @@
+path: ../datasets/Data
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: Car detection - v1 2023-11-27 12-11pm
+  1: motorcycle
+  2: truck
